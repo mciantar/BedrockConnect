@@ -121,6 +121,7 @@ add_domain hivebedrock.network @ geo
 add_domain inpvp.net play
 add_domain lbsg.net mco
 add_domain galaxite.net play
+add_domain cubecraft.net mco
 
 # Reload config
 /etc/init.d/named start
